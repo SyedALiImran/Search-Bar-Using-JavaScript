@@ -6,7 +6,14 @@ body{
     background-color: #000;
 }
 
-.container h1{
+.navbar{
+    background-color: #202020 !important;
+
+}
+.navbar a{
+    color: white;
+}
+.container h3{
     color: white;
 }
 input{
