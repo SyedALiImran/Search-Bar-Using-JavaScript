@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,900;1,400&display=swap');
+
+
+body{
+    font-family: 'Roboto';
+    background-color: #000;
+}
+
+.container h1{
+    color: white;
+}
+input{
+    background-color: #1f1e1e !important;
+    color: white !important;
+    border: none !important;
+    outline: none !important;
+}
+input::placeholder{
+    color: white !important;
+}
+
+
+
+table{
+    text-align: center;
+}
+
+th{
+    color: white !important;
+    background-color: #1f1e1e !important;
+}
+td,tr{
+
+    color: white;
+}
